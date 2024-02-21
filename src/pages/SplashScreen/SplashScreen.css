@@ -4,40 +4,47 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center; /* Center content vertically */
   text-align: center;
-  background-color: #f8f8f8; /* Choose a suitable background color */
+  background-color: #000; /* Set background color to black */
 }
-
 
 .splash-title {
-  color: #333; /* Change color to a darker shade */
+  color: #fff; /* White text for better visibility on black background */
   font-weight: bold;
-  padding-top: 10%;
-  font-size: 32px; /* Increase font size for emphasis */
+  font-size: 36px; /* Slightly increase font size */
 }
-
 
 .splash-description {
-  color: #555; /* Adjust color for better contrast */
-  font-size: 20px; /* Increase font size for better readability */
-  width: 70%; /* Widen the description container */
+  color: #ccc; /* Light gray text */
+  font-size: 18px; /* Keep a reasonable font size */
+  width: 80%; /* Widen the description container */
   padding: 15px 0 30px 0; /* Adjust padding for better spacing */
 }
-
 
 .banner-splash {
   width: 90%;
   position: relative;
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  margin-top: 20px; /* Add some top margin */
+}
+
+.image-splash {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
 }
 
 .splash-button {
-  background-color: var(--primary); /* Use primary color for the button */
+  background-color: var(--primary);
   border: none;
-  padding: 15px 30px; /* Adjust padding for a more balanced look */
+  padding: 15px 30px;
   border-radius: 30px;
   font-weight: 600;
   color: #fff;
-  font-size: 1.3em; /* Slightly increase font size */
-  position: relative;
-  bottom: 20px; /* Reduce the distance from the banner */
+  font-size: 1.3em;
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+.splash-button:hover {
+  background-color: #0056b3; /* Darken the background color on hover */
 }
