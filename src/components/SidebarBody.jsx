@@ -10,6 +10,14 @@ export default function SidebarBody() {
                         <a href="/#">Trakteer coffe</a>
                     </li>
                     <li>
+                        <AiOutlineCoffee />
+                        <a href="/#">Trakteer coffe</a>
+                    </li>
+                    <li>
+                        <AiOutlineCoffee />
+                        <a href="/#">Trakteer coffe</a>
+                    </li>
+                    <li>
                         <AiOutlineBug />
                         <a href="/#"> Report bug</a>
                     </li>
