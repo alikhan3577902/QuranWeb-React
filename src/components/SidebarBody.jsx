@@ -22,11 +22,11 @@ export default function SidebarBody() {
             <div className="sidebar-footer">
                 <h3 className="footer-title">Contact me</h3>
                 <div className="icons-social">
-                    <a href="https://github.com/ahmdsk" target="_blank" rel="noopener noreferrer"><AiOutlineGithub /></a>
-                    <a href="https://wa.me/62895605997185" target="_blank" rel="noopener noreferrer"><AiOutlineWhatsApp /></a>
+                    <a href="https://github.com/alikhan3577902" target="_blank" rel="noopener noreferrer"><AiOutlineGithub /></a>
+                    <a href="https://wa.me/+923252250078" target="_blank" rel="noopener noreferrer"><AiOutlineWhatsApp /></a>
                     <a href="https://instagram.com/ahmdsk._" target="_blank" rel="noopener noreferrer"><AiOutlineInstagram /></a>
                 </div>
-                <h4 className="copyright">Developed by <b>Ahmad Shaleh</b></h4>
+                <h4 className="copyright">Developed by <b>MUHAMMAD ALI</b></h4>
             </div>
         </div>
     )
