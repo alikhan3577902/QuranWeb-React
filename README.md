@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/ahmdsk/QuranWeb-React/main/public/Shoots/Homepage.png" width="15%" />
 <img src="https://raw.githubusercontent.com/ahmdsk/QuranWeb-React/main/public/Shoots/DetailSurah.png" width="15%" />
 <img src="https://raw.githubusercontent.com/ahmdsk/QuranWeb-React/main/public/Shoots/Search.png" width="15%" />
-<img src="https://raw.githubusercontent.com/ahmdsk/QuranWeb-React/main/public/Shoots/Sidebar.png" width="15%" />
 </div>
 
 [Live Demo](https://quran-web-react-cra.netlify.app).
